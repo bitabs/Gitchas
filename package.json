@@ -1,5 +1,5 @@
 {
-  "name": "Gitchas",
+  "name": "gitchas",
   "private": true,
   "scripts": {
     "build": "turbo build",
