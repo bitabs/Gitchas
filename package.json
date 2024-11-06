@@ -1,5 +1,5 @@
 {
-  "name": "gitchas",
+  "name": "loadump",
   "private": true,
   "scripts": {
     "build": "turbo build",
